@@ -1,2 +1,0 @@
-# cprojects
-college projects
