@@ -47,7 +47,7 @@ private:
             inorderRec(root->right);
         }
     }
-
+public:
     ~Binary_search_tree() {
         destroyTree(root);
     }
